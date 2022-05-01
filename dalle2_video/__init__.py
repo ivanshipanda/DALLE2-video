@@ -1,0 +1,1 @@
+from dalle2_video.dalle2_video import DALLE2Video
